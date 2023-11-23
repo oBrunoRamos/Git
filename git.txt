@@ -1,0 +1,13 @@
+Pasta " .gitignore " - lista os arquivos git a serem ignorados
+
+* git init *                 - Inicializa o repositório Git
+* git add . *		     - Pepara todos os arquivos para serem commitados
+* git add <file> * 	     - Prepara o arquivo para ser commitado.
+* git rm --cached <file> *   - Retira o arquivo preparado e volta ao status inicial.
+* git commit -m "Mensagem" * - Faz o commit dos arquivos preparados.
+* git status * 		     - Mostra o status do projeto.
+* git log * 		     - Mostra todos os commits feitos.
+* git branch *               - Mostra todas as branchs criadas 
+* git branch <name> *        - Cria uma nova branch
+* git checkout <branch> *    - Muda para a branch indicada.
+* git merge <branch> *       - A partir da branch que você quer manter unindo a outra, você seleciona a branch (<branch>) a ser adicionada
